@@ -1,15 +1,21 @@
 body {
+    max-width: 90%;
     background-color: black;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 ,h2 {
     color: antiquewhite;
 }
 
+h1 {
+    
+    font-size: 90 px ;
+}
+
 p{
     color: dimgrey;
-    /*font-size: 14 px;*/
 }
 a{
     color: green;

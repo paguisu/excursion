@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 ,h2 {
+    color: antiquewhite;
+}
+
+p{
+    color: dimgrey;
+    /*font-size: 14 px;*/
+}
+a{
+    color: green;
+    
+}

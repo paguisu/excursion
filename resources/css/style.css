@@ -6,18 +6,30 @@ body {
 }
 
 h1 ,h2 {
-    color: antiquewhite;
+    color:white;
+    text-align: center;
 }
 
-h1 {
-    
-    font-size: 90 px ;
+
+h1 {   
+    font-size: 50 px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
 }
 
 p{
     color: dimgrey;
 }
 a{
-    color: green;
+    color:aquamarine;
+    font-size: 16px;
     
+}
+.firma {
+    text-align: left;
+    color:grey
 }
